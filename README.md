@@ -1,6 +1,6 @@
 ## ✨ Maria Ali ✨
 
-🌸 First-year Computer Applications student  
+🌸 Second-year Computer Applications student  
 🧠 C + Java + Statistics + Communicative English  
 💻 Learning one project at a time
 
