@@ -1,17 +1,17 @@
-## ✨ Maria Ali ✨
+##  Maria Ali 
 
-🌸 Second-year Computer Applications student  
-🧠 C + Java + Statistics + Communicative English  
-💻 Learning one project at a time
+ Second-year Computer Applications student  
+ C + Java + Statistics + Communicative English  
+ Learning one project at a time
 
-## 💡 What I’m Working On
+## What I’m Working On
 - Beginner C Projects
-- Stats Tools in C
+- Beginner Java Projects
 - Exploring GitHub and Freelancing!
 
-## 🔧 Tools & Languages
+## Tools & Languages
 - C, Java (learning), Python (basic)
-- VS Code, GitHub, Replit
+- VS Code, GitHub, IntelliJ 
 
-## 🌱 Let’s Connect!
+## Let’s Connect!
 I’m exploring programming, building projects, and dreaming of earning through my skills!
