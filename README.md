@@ -7,10 +7,10 @@
 ## What I’m Working On
 - Beginner C Projects
 - Beginner Java Projects
-- Exploring GitHub and Freelancing!
+- Exploring Git & GitHub!
 
 ## Tools & Languages
-- C, Java (learning), Python (basic)
+- C, Java (learning), Python (learning)
 - VS Code, GitHub, IntelliJ 
 
 ## Let’s Connect!
