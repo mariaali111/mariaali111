@@ -2,7 +2,8 @@
 
 ### Computer Science Student @ AMU
 
-I am a 2nd-year B.Sc. (Hons) Computer Science & Applications student at **Aligarh Muslim University**. I have a passion for building clean web applications and write smarter, data-driven code.
+I am a 2nd-year B.Sc. (Hons) Computer Science & Applications student at **Aligarh Muslim University**.
+I’m focused on building a strong foundation in programming through structured learning, small projects, and careful iteration.
 
 ---
 
@@ -32,7 +33,7 @@ I believe that being a good developer requires creativity and patience. When I'm
 
 <div align="center">
 
-&nbsp; ![Maria's Stats](https://github-readme-stats.vercel.app/api?username=mariaali111&show_icons=true&theme=algolia&hide_border=true&count_private=true) &nbsp;
+![Maria's Stats](https://github-readme-stats.vercel.app/api?username=mariaali111&show_icons=true&theme=algolia&hide_border=true&count_private=true) &nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariaali111&layout=compact&theme=algolia&hide_border=true)
 
 </div>
