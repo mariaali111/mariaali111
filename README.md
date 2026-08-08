@@ -2,7 +2,7 @@
 
 ### Computer Science Student @ AMU
 
-I am a 2nd-year B.Sc. (Hons) Computer Science & Applications student at **Aligarh Muslim University**.
+I am a 3rd-year B.Sc. (Hons) Computer Science & Applications student at **Aligarh Muslim University**.
 I’m focused on building a strong foundation in programming through structured learning, small projects, and careful iteration.
 
 ---
