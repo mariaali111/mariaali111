@@ -2,8 +2,8 @@
 
 ### Computer Science Student @ AMU
 
-I am a 3rd-year B.Sc. (Hons) Computer Science & Applications student at **Aligarh Muslim University**.
-I’m focused on building a strong foundation in programming through structured learning, small projects, and careful iteration.
+I am a B.Sc. (Hons) Computer Science & Applications student at **Aligarh Muslim University**.
+I’m focused on building a strong foundation in programming through structured learning, projects, and careful iteration.
 
 ---
 
@@ -26,17 +26,6 @@ I believe that being a good developer requires creativity and patience. When I'm
 - **Sketching:** Bringing visual ideas to life on paper.
 - **Knitting:** Applying logic and patterns to create something tangible.
 - **Reading:** Constantly exploring new stories and perspectives.
-
----
-
-### GitHub Activity
-
-<div align="center">
-
-![Maria's Stats](https://github-readme-stats.vercel.app/api?username=mariaali111&show_icons=true&theme=algolia&hide_border=true&count_private=true) &nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariaali111&layout=compact&theme=algolia&hide_border=true)
-
-</div>
 
 ---
 
